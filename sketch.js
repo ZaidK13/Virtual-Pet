@@ -2,8 +2,8 @@
 var foodS
 function preload()
 {
-  dogImg1= loadImage("images/dogImg.png")
-  dogImg2= loadImage("images/dogImg1.png")
+  dogImg1= loadImage("dogImg.png")
+  dogImg2= loadImage("dogImg1.png")
 }
 
 function setup() {
